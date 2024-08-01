@@ -1,0 +1,30 @@
+{
+    "status":"true",
+    "data":
+    [{
+        "id":1,
+        "name":"bob",
+        "photo":"/photo/1.jpg",
+        "courses":[
+            {
+                "id":"1",
+                "name":"football"
+            },
+            {
+                "id":"2",
+                "name":"basketball"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "name":"mhmd",
+        "photo":"/photo/2.jpg"
+    },
+    {
+        "id":"3",
+        "name":"zack",
+        "photo":"/photo/3.jpg"
+    }
+]
+}
